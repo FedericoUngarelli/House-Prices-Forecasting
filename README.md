@@ -20,4 +20,4 @@ There are 15 input variables, which are described below.
 15. energy_efficiency_class: energy efficiency class of the house
 
 
-In 'REPORT_2' you can find a detailed description of the project.
+In `REPORT_2` you can find a detailed description of the path to reach the final solution.
