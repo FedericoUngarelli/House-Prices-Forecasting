@@ -18,3 +18,6 @@ There are 15 input variables, which are described below.
 13. floor: in which floor of the building the house is located
 14. heating_centralized: whether the heating system is centralized or not
 15. energy_efficiency_class: energy efficiency class of the house
+
+
+In 'REPORT_2' you can find a detailed description of the project.
